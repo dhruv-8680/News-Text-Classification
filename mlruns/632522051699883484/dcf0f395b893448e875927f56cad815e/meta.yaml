@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dhruv/Documents/Research_tf_2_0/NewGen/Assignment_EMIDS/mlruns/632522051699883484/dcf0f395b893448e875927f56cad815e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '632522051699883484'
+lifecycle_stage: active
+run_id: dcf0f395b893448e875927f56cad815e
+run_name: languid-stoat-830
+run_uuid: dcf0f395b893448e875927f56cad815e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692976553990
+status: 1
+tags: []
+user_id: dhruv
